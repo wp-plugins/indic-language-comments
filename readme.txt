@@ -1,4 +1,4 @@
-﻿/* Comment in Indic Language - IndicLangComment */
+﻿=== Comment in Indic Language - IndicLangComment ===
 Author: Tarun Joshi 
 link: http://www.readers-cafe.net/
 Tags: Indic Language Comment Transliteration, Indian Languages, Comments, Hindi, Tamil, Telugu, Kannada, Malayalam, Arabic
@@ -12,11 +12,11 @@ If you want your visitor to write comment on any indic language then this plugin
 
 NOTE: I may not be updating the plugin on a regular basis but I have plan to work on one little thing I left this time.
 
-/* Description */
+== Description ==
 Indic Language plugin for Comments, It enables Indic Languages for comment form, When Visitors will write comments in Roman script this plugin automatically converts text into default Indian Script selected using google transliteration API. Visitors can use Ctrl G key combination to toggle between english and selected Indian langueage.
 
 
-/* Installation */
+== Installation ==
 
 1. Unzip the file
 2. Upload "IndicLangComment.php" to the "/wp-content/plugins/" directory
@@ -24,7 +24,7 @@ Indic Language plugin for Comments, It enables Indic Languages for comment form,
 4. Go to Comments -> Indic Language Comment Options and set up the options.
 
 
-/*     FAQ     */
+==    FAQ    ==
 
 Q. What is transliteration? 
 A. Transliteration is the process of converting a word written in one language into another language. Transliteration is distinct from translation, which involves a change in language while maintaining the meaning of the word; transliteration instead converts the sound of the word from one language to another.
@@ -32,6 +32,8 @@ A. Transliteration is the process of converting a word written in one language i
 
 Q. What could be the problem, I see just boxes instead of indic text? 
 A. It means your computer does not have support for Indian languages, Check wikipedia page for details: (http://en.wikipedia.org/wiki/Wikipedia:Enabling_complex_text_support_for_Indic_scripts)
+
+== Screenshots ==
 
 
 
