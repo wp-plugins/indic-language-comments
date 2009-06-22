@@ -1,4 +1,4 @@
-﻿=== Comment in Indic Language - IndicLangComment ===
+﻿=== Indic Language Comments ===
 Author: Tarun Joshi 
 link: http://www.readers-cafe.net/
 Tags: Indic Language Comment Transliteration, Indian Languages, Comments, Hindi, Tamil, Telugu, Kannada, Malayalam, Arabic
@@ -15,6 +15,16 @@ NOTE: I may not be updating the plugin on a regular basis but I have plan to wor
 == Description ==
 Indic Language plugin for Comments, It enables Indic Languages for comment form, When Visitors will write comments in Roman script this plugin automatically converts text into default Indian Script selected using google transliteration API. Visitors can use Ctrl G key combination to toggle between english and selected Indian langueage.
 
+**Note:** This is my First plugin and still learning how this thing works.
+
+**Indic languages Supported:**
+
+* Hindi, 
+* Tamil, 
+* Telugu, 
+* Kannada, 
+* Malayalam, 
+* Arabic
 
 == Installation ==
 
