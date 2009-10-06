@@ -40,7 +40,7 @@ Indic Language plugin for Comments, It enables Indic Languages for comment form,
 1. Unzip the file
 2. Upload "IndicLangComment.php" to the "/wp-content/plugins/" directory
 3. Activate plugin via 'Plugins' menu in WordPress
-4. Go to Comments -> Indic Language Comment Options and set up the options.
+4. Go to Settings -> Indic Language Comments and set up the options.
 
 
 ==    FAQ    ==
