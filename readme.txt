@@ -43,10 +43,11 @@ Indic Language plugin for Comments, It enables Indic Languages for comment form,
 4. Go to Settings -> Indic Language Comments and set up the options.
 
 
-==    FAQ    ==
+== FAQ ==
 
 Q. How this plugin translate language written in roman to indic laguage? 
 A. This plugin is written using google api for Transliteration and this is what does translation job, actually it's not translation but transliteration.
+
 
 Q. What is transliteration? 
 A. Transliteration is the process of converting a word written in one language into another language. Transliteration is distinct from translation, which involves a change in language while maintaining the meaning of the word; transliteration instead converts the sound of the word from one language to another.
